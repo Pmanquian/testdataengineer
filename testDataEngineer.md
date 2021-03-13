@@ -1,8 +1,8 @@
-#Test
+# Test
 
 Haremos una leve exploración del padrón electoral chileno, utilizando los datos públicamente disponibles en el servel, y utilizando herramientas de línea de comando de UNIX.
 
-##Referencias:
+## Referencias:
 
 https://en.wikipedia.org/wiki/List_of_Unix_commands
 
@@ -13,7 +13,7 @@ https://www.tutorialspoint.com/awk/index.htm
 El padron electoral está disponible acá:
 https://www.servel.cl/padron-electoral-por-nacionalidad-y-region-elecciones-abril-2021/
 
-##Preguntas:
+## Preguntas:
 Responda las siguientes preguntas, cada una idealmente mediante una linea de comandos:
 
 1. ¿Cuántos registros hay en Rancagua?
