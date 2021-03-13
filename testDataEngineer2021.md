@@ -50,3 +50,5 @@ Diseñe un plan de trabajo para lograr el objetivo, tomando en cuenta las tecnol
 * Actividades a realizar.
 * Cronograma o plan de trabajo incluyendo sub objetivos, resultados y metas.
 * Argumente las decisiones de su plan.
+
+El formato de entrega de este plan, es un documento escrito o presentación. La idea es que la redacción de este plan no tome más de 2 o 3 horas. El énfasis está en el cómo, y no tanto en el qué se entrega. Con esto buscamos evaluar metodología y habilidades de presentación por escrito y hablado para la segunda entrevista.
