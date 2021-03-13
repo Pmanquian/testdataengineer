@@ -16,13 +16,15 @@ El padron electoral está disponible acá:
 https://www.servel.cl/padron-electoral-por-nacionalidad-y-region-elecciones-abril-2021/
 
 ### Preguntas:
-Responda las siguientes preguntas, cada una idealmente mediante una línea de comandos:
+Responda las siguientes preguntas, cada una idealmente mediante una (o pocas) línea de comandos:
 
 1. ¿Cuántos registros hay en Rancagua?
 2. ¿Cuántos registros hay en Chillán?
-3. ¿Cuánta gente en Chile aparece en el registro con edad mayor a cién años?
-4. ¿Cuál es la distribución de registros de personas mayores a cién años? 
+3. ¿Cuánta gente en Chile aparece en el registro con edad mayor a cien años?
+4. ¿Cuál es la distribución de registros de personas mayores a cien años? 
 5. ¿Dónde vive la persona más longeva del registro?
+
+Puede asumir que el archivo está descargado dentro del directorio donde ejecutar las lineas de comando. El output esperado puede ser un archivo de texto con los comandos o un shell script.
 
 ## Plan de Trabajo
 
