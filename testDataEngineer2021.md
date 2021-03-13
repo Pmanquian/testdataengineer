@@ -16,7 +16,7 @@ El padron electoral está disponible acá:
 https://www.servel.cl/padron-electoral-por-nacionalidad-y-region-elecciones-abril-2021/
 
 ### Preguntas:
-Responda las siguientes preguntas, cada una idealmente mediante una linea de comandos:
+Responda las siguientes preguntas, cada una idealmente mediante una línea de comandos:
 
 1. ¿Cuántos registros hay en Rancagua?
 2. ¿Cuántos registros hay en Chillán?
