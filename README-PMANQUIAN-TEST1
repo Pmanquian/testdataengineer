@@ -1,0 +1,28 @@
+Consideraciones
+- Las siguientes funciones fueron programadas en Linux RHEL 7.5
+- El archivo posee salto de línea codificado para ambientes Linux
+
+Supuestos
+-El archivo PADRON_DEF_2021_MUNGORE.csv está en el mismo directorio que las funciones adjuntas
+-El archivo PADRON_DEF_2021_MUNGORE.csv siempre será separado por punto y coma (;)
+-El archivo PADRON_DEF_2021_MUNGORE.csv contiene cabecera
+
+Las preguntas:
+	¿Cuántos registros hay en Rancagua?
+	¿Cuántos registros hay en Chillán?
+Se resuelven con el archivo : sh_cant_personas_x_comuna.sh 
+Al ejecutar se debe ingresar el nombre de la comuna a buscar
+
+La pregunta:
+¿Cuánta gente en Chile aparece en el registro con edad mayor a cien años?
+Se resuelve con el archivo: sh_cant_mayor_a.sh
+Al ejecutar se debe ingresar la edad que desea buscar
+
+La pregunta : 
+¿Cuál es la distribución de registros de personas mayores a cien años?
+Se resuelve con el archivo: sh_dist_comuna_edad_mayor_a.sh
+Al ejecutar se debe ingresar la edad que desea buscar
+
+La pregunta :
+¿Dónde vive la persona más longeva del registro?
+se resuleve con el archivo: sh_mas_longevo.sh
